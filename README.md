@@ -22,7 +22,7 @@ https://prnt.sc/YQRdHS7T7OT5
 
 ## 🌍 Демо
 
-[🔗 Посмотреть онлайн]
+[🔗 Посмотреть онлайн] https://drag-and-drop-nine-eta.vercel.app/
 
 ## 📂 Установка
 
